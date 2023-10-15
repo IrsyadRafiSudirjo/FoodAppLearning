@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">FoodApiLearning</string>
+    <string name="edt_txt_search">Search Food Name</string>
+    <string name="btn_search">Search</string>
+</resources>
